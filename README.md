@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# jdbc-lab
+
+<sub>Connect a plain Java 21 application to PostgreSQL and H2 with JDBC, then inspect metadata and run prepared statements.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | jdbc-lab |
+| Primary language | Java |
+| Topics | database, database-labs, devarent, docker, java, jdbc, lab, postgresql, sql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+jdbc-lab is a hands-on repository focused on: Connect a plain Java 21 application to PostgreSQL and H2 with JDBC, then inspect metadata and run prepared statements.. Primary language: Java. Topics: database, database-labs, devarent, docker, java, jdbc, lab, postgresql, sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
